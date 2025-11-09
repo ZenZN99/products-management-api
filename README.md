@@ -1,6 +1,6 @@
-🛒 Products Management API (CRUD)
-📝 About
+## 🛒 Products Management API (CRUD)
 
+📝 About
 Products Management API is a professional Back-End project for managing products in a clean and structured way.
 It allows registered users to create, read, update, and delete products, each with a title, price, taxes, ads, discount, total, category, and count.
 All operations are user-specific, meaning each user can only manage their own products.
